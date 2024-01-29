@@ -1,6 +1,6 @@
 package exprtk
 
-// #cgo CXXFLAGS: -flto=auto -fuse-linker-plugin -std=c++11
+// #cgo CXXFLAGS: -flto=auto -fuse-linker-plugin -std=c++11 -ftree-parallelize-loops
 // #cgo LDFLAGS: -L. -lextrtkwrapper
 // #include "exprtkwrapper.h"
 import "C"
