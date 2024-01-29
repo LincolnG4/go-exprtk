@@ -28,7 +28,7 @@ Go-ExprTk supports numerous forms of functional, logical and vector processing s
 ## Installation
 
 ```bash
-go get github.com/Pramod-Devireddy/go-exprtk
+go get github.com/LincolnG4/go-exprtk
 ```
 
 ## Examples
@@ -39,7 +39,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Pramod-Devireddy/go-exprtk"
+	"github.com/LincolnG4/go-exprtk"
 )
 
 func main() {
